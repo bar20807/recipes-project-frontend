@@ -6,6 +6,7 @@ import {
   CardHeader,
 } from "@/components/ui/card";
 
+//Funcion para poner carga de los archivos
 export default function SkeletonCard() {
   return (
     <Card className="flex flex-col justify-between">
