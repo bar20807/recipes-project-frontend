@@ -20,8 +20,10 @@ interface Recipe {
   id: string
 }
 
+//Api hecha por mi en render: https://api-recipes-uwny.onrender.com/recipes
+
 async function getRecipes(): Promise<Recipe[]> {
-  const result = await fetch('http://localhost:3001/recipes')
+  const result = await fetch('https://api-recipes-uwny.onrender.com/recipes')
   //delay response
   await new Promise((resolve) => setTimeout(resolve, 3000))
   return result.json()
