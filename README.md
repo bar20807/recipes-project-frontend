@@ -36,7 +36,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 ## API UTILIZADA
-For this api we used json-server, using the render platform to launch a small simulation of the backend.
+For this api we used json-server, using the RENDER platform to launch a small simulation of the backend.
 ### https://api-recipes-uwny.onrender.com/recipes
 
 ## LINK TO ACCESS:
