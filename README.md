@@ -38,3 +38,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## API UTILIZADA
 For this api we used json-server, using the rennder platform to launch a small simulation of the backend.
 ### https://api-recipes-uwny.onrender.com/recipes
+
+## LINK TO ACCESS:
+### https://recipes-project-frontend.vercel.app
